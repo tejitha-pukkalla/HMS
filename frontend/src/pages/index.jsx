@@ -12,14 +12,14 @@ import Footer from '../components/landing/Footer';
 const IndexPage = () => {
   return (
     <div className="font-sans">
-      <Navbar />
-      <Hero />
+      {/* <Navbar />
+      <Hero /> */}
       <About />
-      <Services />
+      {/* <Services />
       <Testimonials />
       <BookAppointment />
       <Contact />
-      <Footer />
+      <Footer /> */}
     </div>
   );
 };
