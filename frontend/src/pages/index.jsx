@@ -14,12 +14,12 @@ const IndexPage = () => {
     <div className="font-sans">
       {/* <Navbar />
       <Hero /> */}
-      <About />
+      {/* <About /> */}
       {/* <Services />
       <Testimonials />
-      <BookAppointment />
+      <BookAppointment /> */}
       <Contact />
-      <Footer /> */}
+      {/* <Footer /> */}
     </div>
   );
 };
